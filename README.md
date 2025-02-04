@@ -181,8 +181,3 @@ model = load_model("models/dental_classification.h5")
 - Keras API: [https://keras.io/](https://keras.io/)  
 - Scikit-learn: [https://scikit-learn.org/](https://scikit-learn.org/)  
 
-
-📜 References
-TensorFlow Docs: https://www.tensorflow.org/
-Keras API: https://keras.io/
-Scikit-learn: https://scikit-learn.org/
